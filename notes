@@ -1,3 +1,14 @@
+//* Installation
 1.cypress sayfasina git
 2. npm veya yarn ile vscode'a installation
-3.
+3.documantasyondan openin the app'e geliyoruz
+4.npx cypress open  komutunu vscode terminala yaziyoruz
+5.e2e testing'e (butuncul tesini yapar)basiyoruz (Component testing-parca olarak tesini yapar )
+6.configuration files=>continue
+7. Choose a browser=>Chrome=>start e2e testing in Chrome
+8.Create new spec(yeni testing yapabilmek icin)  (Scaffold example specs- ornek dosya yukletiyor.incelemek icin gelen)
+9.Create spec=>Okay,run the spec (cypress test ekrani gelecek)
+
+
+
+
